@@ -104,7 +104,7 @@ body{
 }
 @media (max-width: 1200px) {
     .caixa{
-        padding: 4%;
+        padding: 2%;
     }
     .menu{
         justify-content:center ;
